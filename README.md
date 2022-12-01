@@ -8,3 +8,4 @@ X - Leccion 1 - NumPy I: Introduccion a NumPy
 
 
 PANDAS:
+X - Leccion 1 - Pandas I: Dataframes y Series
