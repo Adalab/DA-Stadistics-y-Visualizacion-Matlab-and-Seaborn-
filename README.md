@@ -7,7 +7,9 @@ NUMPY:
 
 X - Leccion 1 - NumPy I: Introduccion a NumPy
 
-X - Leccion 2 - NumPy II: Indexacion 
+X - Leccion 2 - NumPy II: Indexacion
+
+X - Leccion 3 - Numpy III: Operaciones estadisticas y matematicas
 
 
 PANDAS:
@@ -15,3 +17,5 @@ PANDAS:
 X - Leccion 1 - Pandas I: Dataframes y Series
 
 X - Leccion 2 - Pandas II: Carga y guardado de datos
+
+X - Leccion 3 - Pandas III - Metodos Pandas
