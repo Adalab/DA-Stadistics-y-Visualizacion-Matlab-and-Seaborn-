@@ -25,3 +25,13 @@ X - Leccion 3 - Pandas III - Metodos Pandas
 
 X - Leccion 4 - Pandas IV - Filtrado de datos 
 
+X - Leccion 5 - Pandas V - Unión de datos
+
+X - Leccion 6 - Pandas VI: Groupby
+
+
+VISUALIZACION:
+
+X - Leccion 5 - Visualizacion I: Matplotlib
+
+X - Leccion 6 - Visualizacion II: Matplotlib
