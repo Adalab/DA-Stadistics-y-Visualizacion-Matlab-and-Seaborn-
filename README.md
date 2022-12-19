@@ -29,9 +29,14 @@ X - Leccion 5 - Pandas V - Unión de datos
 
 X - Leccion 6 - Pandas VI: Groupby
 
+X - Leccion 6 - Pandas VII: Apply
+
+
 
 VISUALIZACION:
 
 X - Leccion 5 - Visualizacion I: Matplotlib
 
 X - Leccion 6 - Visualizacion II: Matplotlib
+
+X - Leccion 7 - Visualizacion III: Seaborn
