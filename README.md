@@ -52,3 +52,4 @@ X - Leccion 1 - Estadistica I: Introduccion
 
 X - Leccion  2- Estadistica II: Cuartiles, estadistica con pandas y tabla de frecuencias
 
+
