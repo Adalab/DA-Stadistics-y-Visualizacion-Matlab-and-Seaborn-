@@ -29,7 +29,8 @@ X - Leccion 5 - Pandas V - Unión de datos
 
 X - Leccion 6 - Pandas VI: Groupby
 
-X - Leccion 6 - Pandas VII: Apply
+X - Leccion 7 - Pandas VI: Apply
+
 
 
 
@@ -40,3 +41,11 @@ X - Leccion 5 - Visualizacion I: Matplotlib
 X - Leccion 6 - Visualizacion II: Matplotlib
 
 X - Leccion 7 - Visualizacion III: Seaborn
+
+
+ESTADISTICA 
+
+X - Leccion 1 - Estadistica I: Introduccion
+
+X - Leccion  2- Estadistica II: Cuartiles, estadistica con pandas y tabla de frecuencias
+
