@@ -15,6 +15,7 @@ X - Leccion 4 - Numpy IV: Conjusntos, distribuciones aleatorias
 
 
 
+
 PANDAS:
 
 X - Leccion 1 - Pandas I: Dataframes y Series
@@ -41,6 +42,8 @@ X - Leccion 5 - Visualizacion I: Matplotlib
 X - Leccion 6 - Visualizacion II: Matplotlib
 
 X - Leccion 7 - Visualizacion III: Seaborn
+
+
 
 
 ESTADISTICA 
