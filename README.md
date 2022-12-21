@@ -50,6 +50,14 @@ ESTADISTICA
 
 X - Leccion 1 - Estadistica I: Introduccion
 
-X - Leccion  2- Estadistica II: Cuartiles, estadistica con pandas y tabla de frecuencias
+X - Leccion 2 - Estadistica II: Cuartiles, estadistica con pandas y tabla de frecuencias
+
+X - Leccion 3 - Estadistica III: Tablas de contingencia, correlacion, sesgos y intervalos de confianza
+
+
+
+REPASO CONCEPTOS ESTADISTICA Y VISUALIZACION
+
+X - Leccion 1 - Repaso Conceptos Resumidos
 
 
