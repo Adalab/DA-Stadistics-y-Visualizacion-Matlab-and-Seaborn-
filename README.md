@@ -1,4 +1,4 @@
-Pair programming realizado por: [Judith M.Blanco](https://www.linkedin.com/in/judith-m-blanco/), [Sonia Ruiz]  
+Pair programming realizado por: [Judith M.Blanco](https://www.linkedin.com/in/judith-m-blanco/) y [Sonia Ruiz]  
 
 
 --------------------------
