@@ -1,3 +1,5 @@
+Pair programming realizado por: [Judith M.Blanco](https://www.linkedin.com/in/judith-m-blanco/), [Sonia Ruiz]  
+
 
 --------------------------
 # Numpy / Pandas  / Estadística / Visualización 
