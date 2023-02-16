@@ -1,6 +1,6 @@
 
 --------------------------
-# Numpy / Pandas  / Estadistica / Visualizacion 
+# Numpy / Pandas  / Estadística / Visualización 
 --------------------------
 
 ***Utilizacion de las siguientes librerías especializadas en el cálculo numérico, análisis de datos y visualizacion de los mismos***
