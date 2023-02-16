@@ -1,63 +1,98 @@
-# DA-promoC-modulo2-sprint1-judithysonia
 
-EJERCICIOS REALIZADOS EN PAIR PROGRAMING
-Por Judith Mellidez Blanco y Sonia Ruiz Perez
+--------------------------
+# Numpy / Pandas  / Estadistica / Visualizacion 
+--------------------------
 
-NUMPY:
+***Utilizacion de las siguientes librerías especializadas en el cálculo numérico, análisis de datos y visualizacion de los mismos***
 
-X - Leccion 1 - NumPy I: Introduccion a NumPy
+---
 
-X - Leccion 2 - NumPy II: Indexacion
+**Librerias** 
 
-X - Leccion 3 - Numpy III: Operaciones estadisticas y matematicas
+    ▪ Tratamiento de datos:
 
-X - Leccion 4 - Numpy IV: Conjusntos, distribuciones aleatorias 
+      numpy as np
+      pandas as pd
+      random 
+      re
 
+    ▪ Representación de Gráficos:
 
+      matplotlib.pyplot as plt
+      seaborn as sns
 
+    ▪ Test estadisticos:
 
-PANDAS:
+      researchpy 
+      scipy import stats
 
-X - Leccion 1 - Pandas I: Dataframes y Series
+---------------------------
+### Numpy 
+ ---------------------------
+ 
+   *  [Folder numpy](https://github.com/Adalab/DA-promoc-modulo3-sprint1-judith-gadea/tree/main/RL)
 
-X - Leccion 2 - Pandas II: Carga y guardado de datos
+     ▪ Lecc.1 | NumPy I: Introduccion a NumPy
 
-X - Leccion 3 - Pandas III - Metodos Pandas
+     ▪ Lecc.2 | NumPy II: Indexacion
 
-X - Leccion 4 - Pandas IV - Filtrado de datos 
+     ▪ Lecc.3 | Numpy III: Operaciones estadisticas y matematicas
 
-X - Leccion 5 - Pandas V - Unión de datos
-
-X - Leccion 6 - Pandas VI: Groupby
-
-X - Leccion 7 - Pandas VI: Apply
-
-
-
-
-VISUALIZACION:
-
-X - Leccion 5 - Visualizacion I: Matplotlib
-
-X - Leccion 6 - Visualizacion II: Matplotlib
-
-X - Leccion 7 - Visualizacion III: Seaborn
+     ▪ Lecc.4 | Numpy IV: Conjusntos, distribuciones aleatorias 
 
 
+---------------------------
+### Pandas 
+ ---------------------------
+
+   *  [Folder pandas](https://github.com/Adalab/DA-promoc-modulo2-sprint1-judithysonia/tree/main/pandas)
+
+     ▪ Lecc.1 | Pandas I: Dataframes y Series
+
+     ▪ Lecc.2 | Pandas II: Carga y guardado de datos
+
+     ▪ Lecc.3 | Pandas III - Metodos Pandas
+
+     ▪ Lecc.4 | Pandas IV - Filtrado de datos 
+
+     ▪ Lecc.5 | Pandas V - Unión de datos
+
+     ▪ Lecc.6 | Pandas VI: Groupby
+
+     ▪ Lecc.7 | Pandas VI: Apply
 
 
-ESTADISTICA 
+---------------------------
+### Visualizacion 
+ ---------------------------
 
-X - Leccion 1 - Estadistica I: Introduccion
+   *  [Folder visualizacion](https://github.com/Adalab/DA-promoc-modulo2-sprint1-judithysonia/tree/main/visualizacion)
 
-X - Leccion 2 - Estadistica II: Cuartiles, estadistica con pandas y tabla de frecuencias
+     ▪ Lecc.5 | Visualizacion I: Matplotlib
 
-X - Leccion 3 - Estadistica III: Tablas de contingencia, correlacion, sesgos y intervalos de confianza
+     ▪ Lecc.6 | Visualizacion II: Matplotlib
+
+     ▪ Lecc.7 | Visualizacion III: Seaborn
 
 
+---------------------------
+### Estadistica 
+ ---------------------------
 
-REPASO CONCEPTOS ESTADISTICA Y VISUALIZACION
+   *  [Folder estadistica](https://github.com/Adalab/DA-promoc-modulo2-sprint1-judithysonia/tree/main/estadistica) 
 
-X - Leccion 1 - Repaso Conceptos Resumidos
+    ▪ Lecc.1 | Estadistica I: Introduccion
 
+    ▪ Lecc.2 | Estadistica II: Cuartiles, estadistica con pandas y tabla de frecuencias
+
+    ▪ Lecc.3 | Estadistica III: Tablas de contingencia, correlacion, sesgos y intervalos de confianza
+
+---------------------------
+### Repaso conceptos  
+ ---------------------------
+ 
+   *  [Folder repaso conceptos](https://github.com/Adalab/DA-promoc-modulo2-sprint1-judithysonia/tree/main/repaso%20conceptos%20estadistica%20y%20visualizacion) 
+
+     ▪ Lecc.1 | Repaso Conceptos Resumidos
+  
 
